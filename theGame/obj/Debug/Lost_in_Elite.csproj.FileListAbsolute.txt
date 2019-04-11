@@ -1,0 +1,27 @@
+h:\documents\visual studio 2015\Projects\theGame\theGame\bin\Debug\theGame.exe.config
+h:\documents\visual studio 2015\Projects\theGame\theGame\bin\Debug\theGame.exe
+h:\documents\visual studio 2015\Projects\theGame\theGame\bin\Debug\theGame.pdb
+h:\documents\visual studio 2015\Projects\theGame\theGame\obj\Debug\theGame.csprojResolveAssemblyReference.cache
+h:\documents\visual studio 2015\Projects\theGame\theGame\obj\Debug\theGame.exe
+h:\documents\visual studio 2015\Projects\theGame\theGame\obj\Debug\theGame.pdb
+H:\Documents\Visual Studio 2015\Projects\Lost_in_Elite\theGame\obj\Debug\Lost_in_Elite.csprojResolveAssemblyReference.cache
+H:\Documents\Visual Studio 2015\Projects\Lost_in_Elite\theGame\bin\Debug\theGame.exe.config
+H:\Documents\Visual Studio 2015\Projects\Lost_in_Elite\theGame\bin\Debug\theGame.exe
+H:\Documents\Visual Studio 2015\Projects\Lost_in_Elite\theGame\bin\Debug\theGame.pdb
+H:\Documents\Visual Studio 2015\Projects\Lost_in_Elite\theGame\obj\Debug\theGame.exe
+H:\Documents\Visual Studio 2015\Projects\Lost_in_Elite\theGame\obj\Debug\theGame.pdb
+C:\Users\Ben Crowe\Documents\Lost_in_Elite\theGame\obj\Debug\Lost_in_Elite.csprojAssemblyReference.cache
+C:\Users\Ben Crowe\Documents\Lost_in_Elite\theGame\obj\Debug\Lost_in_Elite.csproj.CoreCompileInputs.cache
+C:\Users\Ben Crowe\Documents\Lost_in_Elite\theGame\obj\Debug\theGame.exe
+C:\Users\Ben Crowe\Documents\Lost_in_Elite\theGame\obj\Debug\theGame.pdb
+C:\Users\Ben Crowe\Documents\Lost_in_Elite\theGame\bin\Debug\theGame.exe.config
+C:\Users\Ben Crowe\Documents\Lost_in_Elite\theGame\bin\Debug\theGame.exe
+C:\Users\Ben Crowe\Documents\Lost_in_Elite\theGame\bin\Debug\theGame.pdb
+H:\Documents\GitHub\Lost_in_Elite\theGame\bin\Debug\Lost_in_Elite.exe.config
+H:\Documents\GitHub\Lost_in_Elite\theGame\obj\Debug\Lost_in_Elite.exe
+H:\Documents\GitHub\Lost_in_Elite\theGame\obj\Debug\Lost_in_Elite.pdb
+H:\Documents\GitHub\Lost_in_Elite\theGame\obj\Debug\Lost_in_Elite.csprojResolveAssemblyReference.cache
+H:\Documents\GitHub\Lost_in_Elite\theGame\obj\Debug\Lost_in_Elite.Properties.Resources.resources
+H:\Documents\GitHub\Lost_in_Elite\theGame\obj\Debug\Lost_in_Elite.csproj.GenerateResource.Cache
+H:\Documents\GitHub\Lost_in_Elite\theGame\bin\Debug\Lost_in_Elite.exe
+H:\Documents\GitHub\Lost_in_Elite\theGame\bin\Debug\Lost_in_Elite.pdb
